@@ -17,3 +17,21 @@
     <center>
 </body>
 </html>
+// <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEVOPS CAT</title>
+</head>
+<body>
+    <center>
+        <h1>STUDENT MANAGEMENT INFORMATION SYSTEM </h1>
+    <?php
+    echo"welcome to Student MIS";
+    ?>
+    <br>
+    <a href="registration_page.html">register</a>
+    <center>
+</body>
+</html>
