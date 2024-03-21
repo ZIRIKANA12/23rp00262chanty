@@ -31,7 +31,7 @@ password<br>
 				<br>
 </form>
 <br>
-<a href="table.php"  style="text-decoration: none;"><H3>Click Here To View Students</H3></a>
+<a href="tbl_users.php"  style="text-decoration: none;"><H3>Register</H3></a>
 </fieldset>
 	
 </form>

@@ -1,9 +1,9 @@
 version: '1.0.3'
 services:
-  nzabaheraheza:
+  chantal:
     build: .
     ports:
-      - "8081:80"
+      - "8099:80"
     volumes:
       - ./:/var/www/html
   mysql-today:
@@ -20,4 +20,4 @@ services:
       - PMA_HOST=mysql-today
       - PMA_PORT=3306
     ports:
-      - 8082:80
+      - 8079:80
